@@ -1,0 +1,15 @@
+# Google Dork: inurl:/doc/page/login.asp?
+# Various Online Devices
+# Date: 18/02/2022
+# Exploit Author: Stuart Steenberg
+#Description: Used to find Hikvision camera login pages
+
+# Google Dork: inurl:wp-content/uploads/wooccm_uploads
+# Files Containing Juicy Info
+# Date:7/11/2021
+# Exploit Author: Stuart Steenberg
+
+# Google Dork: inurl:mil intext:"UNCLASSIFIED/FOUO" ext:pdf
+# Files Containing Juicy Info
+# Date: 03/10/2021 
+# Exploit Author: Stuart Steenberg
